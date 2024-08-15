@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on GEOTAGGER<br><br>🌱 I’m currently learning ReactJS, NestJS<br><br>📫 How to reach me gabercujes@gmail.com<br><br>
+🔭 I’m currently working on Make Me Majestic<br><br>🌱 I’m currently learning ReactJS, NestJS<br><br>📫 How to reach me gabercujes@gmail.com<br><br>
 
 
 ## 🌐 Socials:
